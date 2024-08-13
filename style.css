@@ -1,4 +1,6 @@
-header {
-    background-color: #383d58;
-    color:white
+.cabecalho {
+    background-color: #475bcf;
+    color:white;
+    display: flex;
+    justify-content: space-around;
 }
